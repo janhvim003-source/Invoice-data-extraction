@@ -19,3 +19,11 @@ This project automates the process of extracting text data from invoice images u
    ```bash
    !apt-get install tesseract-ocr
    !pip install pytesseract
+## 📊 Sample Output
+**Input Image:** `batch1-0384.jpg`  
+**Extracted Text:**
+> "Invoice Number: INV-2023-001  
+> Date: 2023-10-12  
+> Total Amount: $450.00"
+
+---
